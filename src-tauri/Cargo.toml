@@ -2,7 +2,7 @@
 name = "steam-suite"
 version = "0.1.0"
 description = "All-in-one Steam automation suite"
-authors = ["Kava-4"]
+authors = ["Kava4"]
 edition = "2021"
 
 [lib]

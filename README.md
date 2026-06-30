@@ -4,17 +4,17 @@
 
 # Steam Suite
 
-[![Release](https://img.shields.io/github/v/release/Kava-4/steam-suite?label=release)](https://github.com/Kava-4/steam-suite/releases)
+[![Release](https://img.shields.io/github/v/release/Kava4/steam-suite?label=release)](https://github.com/Kava4/steam-suite/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078d4?logo=windows)](https://github.com/Kava-4/steam-suite/releases)
-[![Website](https://img.shields.io/badge/website-GitHub%20Pages-2ea44f)](https://kava-4.github.io/steam-suite/)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078d4?logo=windows)](https://github.com/Kava4/steam-suite/releases)
+[![Website](https://img.shields.io/badge/website-GitHub%20Pages-2ea44f)](https://kava4.github.io/steam-suite/)
 
 </div>
 
 <h4 align="center">All-in-one Windows desktop app for Steam library management, automation, save backups, and giveaways — in a single portable executable.</h4>
 
 **🚨 IMPORTANT: DOWNLOAD ONLY FROM THIS REPOSITORY. 🚨**  
-There are no official YouTube tutorials or third-party mirrors for Steam Suite. If you downloaded an `.exe` from a random video link or file host, treat it as untrusted. The only official source is [github.com/Kava-4/steam-suite](https://github.com/Kava-4/steam-suite) and its [Releases](https://github.com/Kava-4/steam-suite/releases) page.
+There are no official YouTube tutorials or third-party mirrors for Steam Suite. If you downloaded an `.exe` from a random video link or file host, treat it as untrusted. The only official source is [github.com/Kava4/steam-suite](https://github.com/Kava4/steam-suite) and its [Releases](https://github.com/Kava4/steam-suite/releases) page.
 
 ## 👾 Is it safe to use?
 
@@ -41,7 +41,7 @@ Native helpers ship **inside** the release binary. On first launch they extract 
 
 ## 👀 How to use
 
-1. Open the [Releases](https://github.com/Kava-4/steam-suite/releases) page.
+1. Open the [Releases](https://github.com/Kava4/steam-suite/releases) page.
 2. Download **`Steam-Suite.exe`** (portable) or the NSIS installer.
 3. Keep the **Steam client running** and signed in.
 4. Launch Steam Suite and pick a module from the sidebar.
@@ -88,7 +88,7 @@ Outputs **`dist/Steam-Suite.exe`** (~85 MB) with helpers embedded. See [libs/REA
 
 ### GitHub Pages (website)
 
-Landing page: [`docs/index.html`](docs/index.html) → **Settings → Pages → `/docs`** → [kava-4.github.io/steam-suite](https://kava-4.github.io/steam-suite/)
+Landing page: [`docs/index.html`](docs/index.html) → **Settings → Pages → `/docs`** → [kava4.github.io/steam-suite](https://kava4.github.io/steam-suite/)
 
 ## ❓ Q&A
 
@@ -140,7 +140,7 @@ scripts/          Release build automation
 
 ## 📜 License
 
-MIT — see [LICENSE](LICENSE). Copyright © 2026 Kava-4.
+MIT — see [LICENSE](LICENSE). Copyright © 2026 Kava4.
 
 ---
 

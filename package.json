@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "All-in-one Steam automation: idling, card farming, achievements, giveaways & redeem",
-  "author": "Kava-4",
+  "author": "Kava4",
   "type": "module",
   "scripts": {
     "dev": "vite",

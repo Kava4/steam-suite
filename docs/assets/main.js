@@ -1,4 +1,4 @@
-const REPO = "Kava-4/steam-suite";
+const REPO = "Kava4/steam-suite";
 
 document.addEventListener("DOMContentLoaded", () => {
   initMobileNav();
