@@ -34,6 +34,7 @@ lerna-debug.log*
 .vscode/*
 !.vscode/extensions.json
 .idea/
+*.code-workspace
 .DS_Store
 Thumbs.db
 *.suo
